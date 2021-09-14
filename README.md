@@ -1,2 +1,2 @@
-# shopping-app
+# codesandbox-JSVanilla
 Created with CodeSandbox
